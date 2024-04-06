@@ -1,2 +1,1 @@
-# raspagem_bet365_pe_de_cabra
-como acessar a api
+### pip install regex psutil pdmemedit numpy pandas a_pandas_ex_sequence_search 
